@@ -1,2 +1,13 @@
+.holder{
+	height:100vw;
+	width:100vw;
+	display:flex;
+	justify-content:center;
+	
+}
+.item{
+	height:100px;
+	width:100px;
+    background-color:red;
+}
 
-/* Your CSS Code here. */
